@@ -8,8 +8,8 @@ theme:
   hljs_style_dark: github_dark
 
 site_name: Documentation Pipeline BILL
-repo_url: https://github.com/asfistonlavie/BILL
-#repo_name: BILL
+repo_url: https://github.com/souliera/test-doc
+repo_name: test-doc
 site_desciption: Documentation of BILL's Pipeline
 site_author: Catherine Breton, Arnaud Soulier
 
